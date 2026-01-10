@@ -16,7 +16,7 @@ export default function Hero() {
                     fill
                     priority
                     className="object-cover"
-                    quality={100}
+                    quality={90}
                 />
                 {/* Modern Gradient Overlay */}
                 <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-[#0a0a0a]" />
